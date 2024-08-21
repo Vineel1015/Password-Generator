@@ -14,4 +14,6 @@ This program is guarenteed to run in under a second
 
 ## Simple
 The interface is incredibly simple <br />
+
+
 <img width="172" alt="Password_generator_interface" src="https://github.com/user-attachments/assets/37d65835-7a2a-4cff-8a40-687092a3d7b1">
